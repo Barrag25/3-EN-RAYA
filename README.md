@@ -1,4 +1,3 @@
-                                   				⫘⫘⫘⫘⫘⫘ Tres En Raya ⫘⫘⫘⫘⫘
 
 ⫘⫘⫘⫘⫘⫘ INSTRUCCIONES ⫘⫘⫘⫘⫘
 -Se debe crear una carpeta con los archivos: 'version_inicial.py','Fondo.mp3' y 'Victoria.mp3'.
