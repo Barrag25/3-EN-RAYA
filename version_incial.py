@@ -15,12 +15,6 @@ sonido_victoria = pygame.mixer.Sound("Victoria.mp3")  # Sonido al ganar
 def mostrar_reglas():
 
     print("\n                                   ⫘⫘⫘⫘⫘⫘ Tres En Raya ⫘⫘⫘⫘⫘")
-    print("\n⫘⫘⫘⫘⫘⫘ INSTRUCCIONES ⫘⫘⫘⫘⫘")
-    print("- Utilizar VS CODE para correr el juego.")
-    print("- En el menú principal de VS CODE, presionar 'Terminal' y luego 'Nuevo Terminal ")
-    print("- En el menú de la terminal que se abre, presionar el botón 'v' que se encuentra al lado derecho del '+', y luego presionar 'Command Prompt'")
-    print("- Escribir 'pip install pygame'.")
-    print("- Cuando se haya terminado de instalar, se puede iniciar el programa.")
     print("\n⫘⫘⫘⫘⫘⫘ REGLAS ⫘⫘⫘⫘⫘")
     print("① Dos jugadores se turnan para jugar.")
     print("② El primer jugador elige si quiere usar 'X' o 'O'.")
